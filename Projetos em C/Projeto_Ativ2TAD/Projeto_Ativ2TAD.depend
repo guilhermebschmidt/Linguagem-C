@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1681484328 source:c:\users\samsung\desktop\exc\projeto_ativ2tad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ponto.h"
+
+1681484297 c:\users\samsung\desktop\exc\projeto_ativ2tad\ponto.h
+
+1681484201 source:c:\users\samsung\desktop\exc\projeto_ativ2tad\ponto.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"ponto.h"
+
